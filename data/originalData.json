@@ -1,3 +1,254 @@
 {
- 
+    "art":[
+    {
+      "id": 1,
+      "artist": "Banksy",
+      "location": "Williamsburg, Brooklyn",
+      "street": "Bedford Avenue",
+      "intersection": "Bedford Ave & N 6th St",
+      "title": "Balloon Girl",
+      "year": 2015,
+      "description": "Iconic Banksy artwork depicting a girl reaching for a balloon."
+    },
+    {
+      "id": 2,
+      "artist": "Shepard Fairey",
+      "location": "Lower East Side, Manhattan",
+      "street": "Houston Street",
+      "intersection": "Houston St & Bowery",
+      "title": "Obey Mural",
+      "year": 2018,
+      "description": "Shepard Fairey's signature Obey Giant mural conveying political messages."
+    },
+    {
+      "id": 3,
+      "artist": "Swoon",
+      "location": "Bushwick, Brooklyn",
+      "street": "Troutman Street",
+      "intersection": "Troutman St & St. Nicholas Ave",
+      "title": "Subway Dreaming",
+      "year": 2017,
+      "description": "Swoon's intricate wheatpaste art featuring dreamlike scenes on abandoned buildings."
+    },
+    {
+      "id": 4,
+      "artist": "JR",
+      "location": "DUMBO, Brooklyn",
+      "street": "Washington Street",
+      "intersection": "Washington St & Water St",
+      "title": "Inside Out Project",
+      "year": 2016,
+      "description": "JR's large-scale portraits pasted on buildings, part of the Inside Out Project."
+    },
+    {
+      "id": 5,
+      "artist": "Faith47",
+      "location": "Harlem, Manhattan",
+      "street": "Lenox Avenue",
+      "intersection": "Lenox Ave & W 125th St",
+      "title": "The Unbound",
+      "year": 2019,
+      "description": "Faith47's mural exploring themes of freedom and unity."
+    },
+    {
+      "id": 6,
+      "artist": "Invader",
+      "location": "Greenpoint, Brooklyn",
+      "street": "Manhattan Avenue",
+      "intersection": "Manhattan Ave & Nassau Ave",
+      "title": "Space Invader",
+      "year": 2014,
+      "description": "Invader's pixelated mosaic featuring a space invader character."
+    },
+    {
+      "id": 7,
+      "artist": "Lady Pink",
+      "location": "Queens",
+      "street": "Jackson Avenue",
+      "intersection": "Jackson Ave & Crane St",
+      "title": "Queens Connection",
+      "year": 2020,
+      "description": "Lady Pink's vibrant mural celebrating the cultural diversity of Queens."
+    },
+    {
+      "id": 8,
+      "artist": "D*Face",
+      "location": "Meatpacking District, Manhattan",
+      "street": "Gansevoort Street",
+      "intersection": "Gansevoort St & Washington St",
+      "title": "Love and Death",
+      "year": 2013,
+      "description": "D*Face's mural exploring the theme of love and mortality."
+    },
+    {
+      "id": 9,
+      "artist": "ROA",
+      "location": "Brooklyn Navy Yard",
+      "street": "Flushing Avenue",
+      "intersection": "Flushing Ave & Navy St",
+      "title": "Wildlife Harmony",
+      "year": 2016,
+      "description": "ROA's large-scale mural featuring intricately detailed wildlife."
+    },
+    {
+      "id": 10,
+      "artist": "Olek",
+      "location": "East Village, Manhattan",
+      "street": "Avenue A",
+      "intersection": "Avenue A & E 9th St",
+      "title": "Crocheted Cosmos",
+      "year": 2019,
+      "description": "Olek's unique crocheted artwork covering an entire building facade."
+    },
+    {
+      "id": 11,
+      "artist": "Stik",
+      "location": "Chinatown, Manhattan",
+      "street": "Allen Street",
+      "intersection": "Allen St & Hester St",
+      "title": "Unity",
+      "year": 2021,
+      "description": "Stik's minimalist mural promoting unity and inclusivity."
+    },
+    {
+      "id": 12,
+      "artist": "Pixel Pancho",
+      "location": "Bushwick, Brooklyn",
+      "street": "Jefferson Street",
+      "intersection": "Jefferson St & Wyckoff Ave",
+      "title": "Mechanical Nature",
+      "year": 2018,
+      "description": "Pixel Pancho's robotic-themed mural blending nature and machinery."
+    },
+    {
+      "id": 13,
+      "artist": "Borondo",
+      "location": "Red Hook, Brooklyn",
+      "street": "Van Brunt Street",
+      "intersection": "Van Brunt St & Coffey St",
+      "title": "Transparent Layers",
+      "year": 2017,
+      "description": "Borondo's layered and transparent mural exploring depth and perception."
+    },
+    {
+      "id": 14,
+      "artist": "El Mac",
+      "location": "East Harlem, Manhattan",
+      "street": "Third Avenue",
+      "intersection": "Third Ave & E 106th St",
+      "title": "Harlem Portrait",
+      "year": 2015,
+      "description": "El Mac's realistic portrait capturing the spirit of Harlem."
+    },
+    {
+      "id": 15,
+      "artist": "Dasic Fernandez",
+      "location": "Long Island City, Queens",
+      "street": "Jackson Avenue",
+      "intersection": "Jackson Ave & Pearson St",
+      "title": "Cosmic Wave",
+      "year": 2022,
+      "description": "Dasic Fernandez's vibrant cosmic wave mural in LIC."
+    },
+    {
+      "id": 16,
+      "artist": "Alice Pasquini",
+      "location": "East Village, Manhattan",
+      "street": "East 7th Street",
+      "intersection": "E 7th St & Avenue C",
+      "title": "Urban Stories",
+      "year": 2019,
+      "description": "Alice Pasquini's narrative-driven mural reflecting urban stories."
+    },
+    {
+      "id": 17,
+      "artist": "Ron English",
+      "location": "Williamsburg, Brooklyn",
+      "street": "Wythe Avenue",
+      "intersection": "Wythe Ave & N 11th St",
+      "title": "POPaganda",
+      "year": 2014,
+      "description": "Ron English's colorful and satirical POPaganda mural."
+    },
+    {
+      "id": 18,
+      "artist": "Os Gemeos",
+      "location": "Coney Island, Brooklyn",
+      "street": "Surf Avenue",
+      "intersection": "Surf Ave & W 12th St",
+      "title": "Dreamscape",
+      "year": 2016,
+      "description": "Os Gemeos' dreamlike and surreal mural on Coney Island."
+    },
+    {
+      "id": 19,
+      "artist": "Vhils",
+      "location": "Bushwick, Brooklyn",
+      "street": "Morgan Avenue",
+      "intersection": "Morgan Ave & Stagg St",
+      "title": "Urban Portraits",
+      "year": 2020,
+      "description": "Vhils' unique urban portraits carved into the building facade."
+    },
+    {
+      "id": 20,
+      "artist": "M-City",
+      "location": "Greenpoint, Brooklyn",
+      "street": "Greenpoint Avenue",
+      "intersection": "Greenpoint Ave & Franklin St",
+      "title": "City of Gears",
+      "year": 2017,
+      "description": "M-City's industrial-themed mural featuring a city of gears."
+    },
+    {
+      "id": 21,
+      "artist": "Maya Hayuk",
+      "location": "Bushwick, Brooklyn",
+      "street": "Flushing Avenue",
+      "intersection": "Flushing Ave & Bogart St",
+      "title": "Colorful Cosmos",
+      "year": 2018,
+      "description": "Maya Hayuk's vibrant and abstract cosmic mural."
+    },
+    {
+      "id": 22,
+      "artist": "How & Nosm",
+      "location": "Williamsburg, Brooklyn",
+      "street": "Berry Street",
+      "intersection": "Berry St & N 10th St",
+      "title": "Red Harmony",
+      "year": 2016,
+      "description": "How & Nosm's red-hued mural exploring harmony and balance."
+    },
+    {
+      "id": 23,
+      "artist": "Logan Hicks",
+      "location": "Bowery, Manhattan",
+      "street": "East Houston Street",
+      "intersection": "E Houston St & Bowery",
+      "title": "Urban Labyrinth",
+      "year": 2019,
+      "description": "Logan Hicks' intricate urban labyrinth mural."
+    },
+    {
+      "id": 24,
+      "artist": "Buff Monster",
+      "location": "Lower East Side, Manhattan",
+      "street": "Rivington Street",
+      "intersection": "Rivington St & Ludlow St",
+      "title": "Melty World",
+      "year": 2021,
+      "description": "Buff Monster's melty and colorful world mural."
+    },
+    {
+      "id": 25,
+      "artist": "David Choe",
+      "location": "Chinatown, Manhattan",
+      "street": "Canal Street",
+      "intersection": "Canal St & Mott St",
+      "title": "Urban Fusion",
+      "year": 2022,
+      "description": "David Choe's dynamic mural blending urban elements in Chinatown."
+    }
+  ]
 }

@@ -211,39 +211,42 @@
     },
     {
       "id": 18,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706651564/Hidden%20Murals%20NYC/dreamscape_cnj1yo.jpg",
       "artist": "Os Gemeos",
       "location": {
         "neighborhood": "Coney Island",
         "borough": "Brooklyn",
-        "intersection": "Surf Ave & W 12th St"
+        "intersection": "Stillwell Ave between Neptune Ave & Mermaid Ave"
       },
       "title": "Dreamscape",
-      "year": 2016,
-      "description": "Os Gemeos' dreamlike and surreal mural on Coney Island."
+      "year": 2005,
+      "description": "Seeing Os Gemeos' mural on Stillwell Avenue alone is worth a trip to Coney Island. Painted in 2005 and located just outside the subway exit, it continues to attract art tourists and local visitors. The Brazilian graffiti artists, twin brothers Otavio and Gustavo Pandolfo, were sponsored by Creative Time’s Dreamland Artist Club for this project, but their creative reach has expanded exponentially in the last decade."
     },
     {
       "id": 19,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706650785/Hidden%20Murals%20NYC/vhils-chiseled-art_r28oem.jpg",
       "artist": "Vhils",
       "location": {
-        "neighborhood": "Bushwick",
-        "borough": "Brooklyn",
-        "intersection": "Morgan Ave & Stagg St"
+        "neighborhood": "Little Italy",
+        "borough": "Manhattan",
+        "intersection": "Broome St & Elizabeth St"
       },
-      "title": "Urban Portraits",
-      "year": 2020,
-      "description": "Vhils' unique urban portraits carved into the building facade."
+      "title": "unknown",
+      "year": 2018,
+      "description": "This mural by portuguese artist Vhils is his first in the US. His portraits are chiseled into plaster and brick walls. This is a portrait of artist TJ Mizell."
     },
     {
       "id": 20,
-      "artist": "M-City",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706650405/Hidden%20Murals%20NYC/Hammer_Boy_yjkwep.webp",
+      "artist": "Banksy",
       "location": {
-        "neighborhood": "Greenpoint",
-        "borough": "Brooklyn",
-        "intersection": "Greenpoint Ave & Franklin St"
+        "neighborhood": "Upper West Side",
+        "borough": "Manhattan",
+        "intersection": "79th St between Broadway & Amsterdam Ave"
       },
-      "title": "City of Gears",
-      "year": 2017,
-      "description": "M-City's industrial-themed mural featuring a city of gears."
+      "title": "Hammer Boy",
+      "year": 2013,
+      "description": "This modest stencil piece on the Upper West Side is still intact, thanks to the building owner, who installed a Plexiglas shield in an act of guerilla art preservation."
     },
     {
       "id": 21,

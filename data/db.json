@@ -2,6 +2,7 @@
   "murals": [
     {
       "id": 1,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706561562/Hidden%20Murals/download_1_kveqy4.jpg",
       "artist": "Banksy",
       "location": {
         "neighborhood": "Williamsburg",
@@ -14,6 +15,7 @@
     },
     {
       "id": 2,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706575529/Hidden%20Murals/sf-shepard-fairey-nyc-mural_hjqkll.jpg",
       "artist": "Shepard Fairey",
       "location": {
         "neighborhood": "Lower East Side",

@@ -4,6 +4,7 @@
       "id": 1,
       "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706561562/Hidden%20Murals/download_1_kveqy4.jpg",
       "artist": "Banksy",
+      "location": "Williamsburg, Brooklyn",
       "intersection": "Bedford Ave & N 6th St",
       "title": "Balloon Girl",
       "year": 2015,
@@ -13,6 +14,7 @@
       "id": 2,
       "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706575529/Hidden%20Murals/sf-shepard-fairey-nyc-mural_hjqkll.jpg",
       "artist": "Shepard Fairey",
+      "location": "Lower East Side, Manhattan",
       "intersection": "Houston St & Bowery",
       "title": "Obey Mural",
       "year": 2018,
@@ -21,6 +23,7 @@
     {
       "id": 3,
       "artist": "Swoon",
+      "location": "Bushwick, Brooklyn",
       "intersection": "Troutman St & St. Nicholas Ave",
       "title": "Subway Dreaming",
       "year": 2017,
@@ -38,6 +41,7 @@
     {
       "id": 5,
       "artist": "Faith47",
+      "location": "Harlem, Manhattan",
       "intersection": "Lenox Ave & W 125th St",
       "title": "The Unbound",
       "year": 2019,
@@ -46,6 +50,7 @@
     {
       "id": 6,
       "artist": "Invader",
+      "location": "Greenpoint, Brooklyn",
       "intersection": "Manhattan Ave & Nassau Ave",
       "title": "Space Invader",
       "year": 2014,
@@ -54,6 +59,7 @@
     {
       "id": 7,
       "artist": "Lady Pink",
+      "location": "Queens",
       "intersection": "Jackson Ave & Crane St",
       "title": "Queens Connection",
       "year": 2020,
@@ -62,6 +68,7 @@
     {
       "id": 8,
       "artist": "D*Face",
+      "location": "Meatpacking District, Manhattan",
       "intersection": "Gansevoort St & Washington St",
       "title": "Love and Death",
       "year": 2013,
@@ -97,6 +104,7 @@
     {
       "id": 12,
       "artist": "Pixel Pancho",
+      "location": "Bushwick, Brooklyn",
       "intersection": "Jefferson St & Wyckoff Ave",
       "title": "Mechanical Nature",
       "year": 2018,
@@ -105,6 +113,7 @@
     {
       "id": 13,
       "artist": "Borondo",
+      "location": "Red Hook, Brooklyn",
       "intersection": "Van Brunt St & Coffey St",
       "title": "Transparent Layers",
       "year": 2017,
@@ -113,6 +122,7 @@
     {
       "id": 14,
       "artist": "El Mac",
+      "location": "East Harlem, Manhattan",
       "intersection": "Third Ave & E 106th St",
       "title": "Harlem Portrait",
       "year": 2015,
@@ -121,6 +131,7 @@
     {
       "id": 15,
       "artist": "Dasic Fernandez",
+      "location": "Long Island City, Queens",
       "intersection": "Jackson Ave & Pearson St",
       "title": "Cosmic Wave",
       "year": 2022,
@@ -129,6 +140,7 @@
     {
       "id": 16,
       "artist": "Alice Pasquini",
+      "location": "East Village, Manhattan",
       "intersection": "E 7th St & Avenue C",
       "title": "Urban Stories",
       "year": 2019,
@@ -137,6 +149,7 @@
     {
       "id": 17,
       "artist": "Ron English",
+      "location": "Williamsburg, Brooklyn",
       "intersection": "Wythe Ave & N 11th St",
       "title": "POPaganda",
       "year": 2014,
@@ -145,6 +158,7 @@
     {
       "id": 18,
       "artist": "Os Gemeos",
+      "location": "Coney Island, Brooklyn",
       "intersection": "Surf Ave & W 12th St",
       "title": "Dreamscape",
       "year": 2016,
@@ -153,6 +167,7 @@
     {
       "id": 19,
       "artist": "Vhils",
+      "location": "Bushwick, Brooklyn",
       "intersection": "Morgan Ave & Stagg St",
       "title": "Urban Portraits",
       "year": 2020,
@@ -161,6 +176,7 @@
     {
       "id": 20,
       "artist": "M-City",
+      "location": "Greenpoint, Brooklyn",
       "intersection": "Greenpoint Ave & Franklin St",
       "title": "City of Gears",
       "year": 2017,
@@ -169,6 +185,7 @@
     {
       "id": 21,
       "artist": "Maya Hayuk",
+      "location": "Bushwick, Brooklyn",
       "intersection": "Flushing Ave & Bogart St",
       "title": "Colorful Cosmos",
       "year": 2018,
@@ -177,6 +194,7 @@
     {
       "id": 22,
       "artist": "How & Nosm",
+      "location": "Williamsburg, Brooklyn",
       "intersection": "Berry St & N 10th St",
       "title": "Red Harmony",
       "year": 2016,
@@ -185,6 +203,7 @@
     {
       "id": 23,
       "artist": "Logan Hicks",
+      "location": "Bowery, Manhattan",
       "intersection": "E Houston St & Bowery",
       "title": "Urban Labyrinth",
       "year": 2019,
@@ -193,6 +212,7 @@
     {
       "id": 24,
       "artist": "Buff Monster",
+      "location": "Lower East Side, Manhattan",
       "intersection": "Rivington St & Ludlow St",
       "title": "Melty World",
       "year": 2021,
@@ -201,6 +221,7 @@
     {
       "id": 25,
       "artist": "David Choe",
+      "location": "Chinatown, Manhattan",
       "intersection": "Canal St & Mott St",
       "title": "Urban Fusion",
       "year": 2022,

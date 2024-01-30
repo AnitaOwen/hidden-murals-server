@@ -1,10 +1,9 @@
 {
-    "murals":[
+  "murals": [
     {
       "id": 1,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706561562/Hidden%20Murals/download_1_kveqy4.jpg",
       "artist": "Banksy",
-      "location": "Williamsburg, Brooklyn",
-      "street": "Bedford Avenue",
       "intersection": "Bedford Ave & N 6th St",
       "title": "Balloon Girl",
       "year": 2015,
@@ -12,9 +11,8 @@
     },
     {
       "id": 2,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706575529/Hidden%20Murals/sf-shepard-fairey-nyc-mural_hjqkll.jpg",
       "artist": "Shepard Fairey",
-      "location": "Lower East Side, Manhattan",
-      "street": "Houston Street",
       "intersection": "Houston St & Bowery",
       "title": "Obey Mural",
       "year": 2018,
@@ -23,8 +21,6 @@
     {
       "id": 3,
       "artist": "Swoon",
-      "location": "Bushwick, Brooklyn",
-      "street": "Troutman Street",
       "intersection": "Troutman St & St. Nicholas Ave",
       "title": "Subway Dreaming",
       "year": 2017,
@@ -34,7 +30,6 @@
       "id": 4,
       "artist": "JR",
       "location": "DUMBO, Brooklyn",
-      "street": "Washington Street",
       "intersection": "Washington St & Water St",
       "title": "Inside Out Project",
       "year": 2016,
@@ -43,8 +38,6 @@
     {
       "id": 5,
       "artist": "Faith47",
-      "location": "Harlem, Manhattan",
-      "street": "Lenox Avenue",
       "intersection": "Lenox Ave & W 125th St",
       "title": "The Unbound",
       "year": 2019,
@@ -53,8 +46,6 @@
     {
       "id": 6,
       "artist": "Invader",
-      "location": "Greenpoint, Brooklyn",
-      "street": "Manhattan Avenue",
       "intersection": "Manhattan Ave & Nassau Ave",
       "title": "Space Invader",
       "year": 2014,
@@ -63,8 +54,6 @@
     {
       "id": 7,
       "artist": "Lady Pink",
-      "location": "Queens",
-      "street": "Jackson Avenue",
       "intersection": "Jackson Ave & Crane St",
       "title": "Queens Connection",
       "year": 2020,
@@ -73,8 +62,6 @@
     {
       "id": 8,
       "artist": "D*Face",
-      "location": "Meatpacking District, Manhattan",
-      "street": "Gansevoort Street",
       "intersection": "Gansevoort St & Washington St",
       "title": "Love and Death",
       "year": 2013,
@@ -84,7 +71,6 @@
       "id": 9,
       "artist": "ROA",
       "location": "Brooklyn Navy Yard",
-      "street": "Flushing Avenue",
       "intersection": "Flushing Ave & Navy St",
       "title": "Wildlife Harmony",
       "year": 2016,
@@ -94,7 +80,6 @@
       "id": 10,
       "artist": "Olek",
       "location": "East Village, Manhattan",
-      "street": "Avenue A",
       "intersection": "Avenue A & E 9th St",
       "title": "Crocheted Cosmos",
       "year": 2019,
@@ -104,7 +89,6 @@
       "id": 11,
       "artist": "Stik",
       "location": "Chinatown, Manhattan",
-      "street": "Allen Street",
       "intersection": "Allen St & Hester St",
       "title": "Unity",
       "year": 2021,
@@ -113,8 +97,6 @@
     {
       "id": 12,
       "artist": "Pixel Pancho",
-      "location": "Bushwick, Brooklyn",
-      "street": "Jefferson Street",
       "intersection": "Jefferson St & Wyckoff Ave",
       "title": "Mechanical Nature",
       "year": 2018,
@@ -123,8 +105,6 @@
     {
       "id": 13,
       "artist": "Borondo",
-      "location": "Red Hook, Brooklyn",
-      "street": "Van Brunt Street",
       "intersection": "Van Brunt St & Coffey St",
       "title": "Transparent Layers",
       "year": 2017,
@@ -133,8 +113,6 @@
     {
       "id": 14,
       "artist": "El Mac",
-      "location": "East Harlem, Manhattan",
-      "street": "Third Avenue",
       "intersection": "Third Ave & E 106th St",
       "title": "Harlem Portrait",
       "year": 2015,
@@ -143,8 +121,6 @@
     {
       "id": 15,
       "artist": "Dasic Fernandez",
-      "location": "Long Island City, Queens",
-      "street": "Jackson Avenue",
       "intersection": "Jackson Ave & Pearson St",
       "title": "Cosmic Wave",
       "year": 2022,
@@ -153,8 +129,6 @@
     {
       "id": 16,
       "artist": "Alice Pasquini",
-      "location": "East Village, Manhattan",
-      "street": "East 7th Street",
       "intersection": "E 7th St & Avenue C",
       "title": "Urban Stories",
       "year": 2019,
@@ -163,8 +137,6 @@
     {
       "id": 17,
       "artist": "Ron English",
-      "location": "Williamsburg, Brooklyn",
-      "street": "Wythe Avenue",
       "intersection": "Wythe Ave & N 11th St",
       "title": "POPaganda",
       "year": 2014,
@@ -173,8 +145,6 @@
     {
       "id": 18,
       "artist": "Os Gemeos",
-      "location": "Coney Island, Brooklyn",
-      "street": "Surf Avenue",
       "intersection": "Surf Ave & W 12th St",
       "title": "Dreamscape",
       "year": 2016,
@@ -183,8 +153,6 @@
     {
       "id": 19,
       "artist": "Vhils",
-      "location": "Bushwick, Brooklyn",
-      "street": "Morgan Avenue",
       "intersection": "Morgan Ave & Stagg St",
       "title": "Urban Portraits",
       "year": 2020,
@@ -193,8 +161,6 @@
     {
       "id": 20,
       "artist": "M-City",
-      "location": "Greenpoint, Brooklyn",
-      "street": "Greenpoint Avenue",
       "intersection": "Greenpoint Ave & Franklin St",
       "title": "City of Gears",
       "year": 2017,
@@ -203,8 +169,6 @@
     {
       "id": 21,
       "artist": "Maya Hayuk",
-      "location": "Bushwick, Brooklyn",
-      "street": "Flushing Avenue",
       "intersection": "Flushing Ave & Bogart St",
       "title": "Colorful Cosmos",
       "year": 2018,
@@ -213,8 +177,6 @@
     {
       "id": 22,
       "artist": "How & Nosm",
-      "location": "Williamsburg, Brooklyn",
-      "street": "Berry Street",
       "intersection": "Berry St & N 10th St",
       "title": "Red Harmony",
       "year": 2016,
@@ -223,8 +185,6 @@
     {
       "id": 23,
       "artist": "Logan Hicks",
-      "location": "Bowery, Manhattan",
-      "street": "East Houston Street",
       "intersection": "E Houston St & Bowery",
       "title": "Urban Labyrinth",
       "year": 2019,
@@ -233,8 +193,6 @@
     {
       "id": 24,
       "artist": "Buff Monster",
-      "location": "Lower East Side, Manhattan",
-      "street": "Rivington Street",
       "intersection": "Rivington St & Ludlow St",
       "title": "Melty World",
       "year": 2021,
@@ -243,12 +201,64 @@
     {
       "id": 25,
       "artist": "David Choe",
-      "location": "Chinatown, Manhattan",
-      "street": "Canal Street",
       "intersection": "Canal St & Mott St",
       "title": "Urban Fusion",
       "year": 2022,
       "description": "David Choe's dynamic mural blending urban elements in Chinatown."
     }
+  ],
+  "comments": [
+    { "id": "1", "text": "Awesome artwork!", "muralId": "1" },
+    { "id": "2", "text": "The colors are so vibrant!", "muralId": "1" },
+    { "id": "3", "text": "Political art with a powerful message.", "muralId": "2" },
+    { "id": "4", "text": "Shepard Fairey's style is iconic.", "muralId": "2" },
+    { "id": "5", "text": "Dreamlike scenes always capture my imagination.", "muralId": "3" },
+    { "id": "6", "text": "Wheatpaste art is so unique.", "muralId": "3" },
+    { "id": "7", "text": "JR's Inside Out Project is inspiring.", "muralId": "4" },
+    { "id": "8", "text": "Pasted portraits add a personal touch.", "muralId": "4" },
+    { "id": "9", "text": "Freedom and unity are important themes.", "muralId": "5" },
+    { "id": "10", "text": "Faith47's work always tells a story.", "muralId": "5" },
+    { "id": "11", "text": "Pixelated mosaic is a modern twist.", "muralId": "6" },
+    { "id": "12", "text": "Invader's art is like digital meets reality.", "muralId": "6"},
+    { "id": "13", "text": "Vibrant celebration of Queens' diversity.", "muralId": "7" },
+    { "id": "14", "text": "Lady Pink's murals brighten the city.", "muralId": "7" },
+    { "id": "15", "text": "Love and mortality explored beautifully.", "muralId": "8" },
+    { "id": "16", "text": "D*Face always brings deep themes.", "muralId": "8" },
+    { "id": "17", "text": "Intricate details on the wildlife mural.", "muralId": "9" },
+    { "id": "18", "text": "ROA's art feels like a detailed wildlife encyclopedia.", "muralId": "9" },
+    { "id": "19", "text": "Crocheted Cosmos is a masterpiece!", "muralId": "10" },
+    { "id": "20", "text": "Olek's crochet work is so unique.", "muralId": "10" },
+    { "id": "21", "text": "Minimalist art with a powerful message.", "muralId": "11" },
+    { "id": "22", "text": "Stik's murals promote inclusivity.", "muralId": "11" },
+    { "id": "23", "text": "Robotic-themed mural blending nature is fascinating.", "muralId": "12" },
+    { "id": "24", "text": "Pixel Pancho's art is a blend of nature and technology.", "muralId": "12" },
+    { "id": "25", "text": "Layers and transparency create depth.", "muralId": "13" },
+    { "id": "26", "text": "Borondo's mural plays with perception.", "muralId": "13" },
+    { "id": "27", "text": "Realistic portrait capturing Harlem's spirit.", "muralId": "14" },
+    { "id": "28", "text": "El Mac's talent is truly commendable.", "muralId": "14" },
+    { "id": "29", "text": "Vibrant cosmic wave brings energy.", "muralId": "15" },
+    { "id": "30", "text": "Dasic Fernandez's use of color is mesmerizing.", "muralId": "15" },
+    { "id": "31", "text": "Narrative-driven mural tells urban stories.", "muralId": "16" },
+    { "id": "32", "text": "Alice Pasquini's art is like storytelling on walls.", "muralId": "16" },
+    { "id": "33", "text": "Colorful and satirical POPaganda.", "muralId": "17" },
+    { "id": "34", "text": "Ron English always adds humor to his art.", "muralId": "17" },
+    { "id": "35", "text": "Dreamlike and surreal on Coney Island.", "muralId": "18" },
+    { "id": "36", "text": "Os Gemeos' murals transport you to another world.", "muralId": "18" },
+    { "id": "37", "text": "Unique urban portraits carved into the facade.", "muralId": "19" },
+    { "id": "38", "text": "Vhils' portraits add character to the city.", "muralId": "19" },
+    { "id": "39", "text": "Industrial-themed mural with intricate details.", "muralId": "20" },
+    { "id": "40", "text": "M-City's City of Gears is a masterpiece.", "muralId": "20" },
+    { "id": "41", "text": "Vibrant and abstract cosmic mural.", "muralId": "21" },
+    { "id": "42", "text": "Maya Hayuk's use of color is breathtaking.", "muralId": "21" },
+    { "id": "43", "text": "Red-hued mural exploring harmony.", "muralId": "22" },
+    { "id": "44", "text": "How & Nosm bring balance to the streets.", "muralId": "22" },
+    { "id": "45", "text": "Intricate urban labyrinth is mind-blowing.", "muralId": "23" },
+    { "id": "46", "text": "Logan Hicks' attention to detail is impressive.", "muralId": "23" },
+    { "id": "47", "text": "Melty and colorful world brightens the neighborhood.", "muralId": "24" },
+    { "id": "48", "text": "Buff Monster's art adds joy to the streets.", "muralId": "24" },
+    { "id": "49", "text": "Dynamic mural blending urban elements.", "muralId": "25" },
+    { "id": "50", "text": "David Choe's fusion of elements is striking.", "muralId": "25" }
   ]
 }
+
+  

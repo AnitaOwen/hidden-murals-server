@@ -252,30 +252,33 @@
     },
     {
       "id": 22,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706648244/Hidden%20Murals%20NYC/TheDayAfter_ouowxu.webp",
       "artist": "How & Nosm",
       "location": {
-        "neighborhood": "Williamsburg",
-        "borough": "Brooklyn",
-        "intersection": "Berry St & N 10th St"
+        "neighborhood": "Bowery",
+        "borough": "Manhattan",
+        "intersection": "E Houston St & Bowery"
       },
-      "title": "Red Harmony",
-      "year": 2016,
-      "description": "How & Nosm's red-hued mural exploring harmony and balance."
+      "title": "The Day After",
+      "year": 2012,
+      "description": "A street art work by How and Nosm (Raoul and Davide Perre) identical twin brothers known for their large scale graffiti based murals that adorn city walls around the world."
     },
     {
       "id": 23,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706646297/Hidden%20Murals%20NYC/UrbanLabyrinth_uxulis.jpg",
       "artist": "Logan Hicks",
       "location": {
         "neighborhood": "Bowery",
         "borough": "Manhattan",
         "intersection": "E Houston St & Bowery"
       },
-      "title": "Urban Labyrinth",
-      "year": 2019,
-      "description": "Logan Hicks' intricate urban labyrinth mural."
+      "title": "Story of My Life",
+      "year": 2016,
+      "description": "Logan Hicks intricately weaves a captivating narrative of urban living, blending realism and abstraction."
     },
     {
       "id": 24,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706645949/Hidden%20Murals%20NYC/Melty_World_rwjhuv.jpg",
       "artist": "Buff Monster",
       "location": {
         "neighborhood": "Lower East Side",
@@ -284,7 +287,7 @@
       },
       "title": "Melty World",
       "year": 2021,
-      "description": "Buff Monster's melty and colorful world mural."
+      "description": "Brooklyn's power-pink street artist Buff Monster is well known around the City for his colorful and detailed murals depicting cute one-eyed monsters and melty elements."
     },
     {
       "id": 25,

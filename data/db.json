@@ -28,6 +28,7 @@
     },
     {
       "id": 3,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706645486/Hidden%20Murals/Swoon-Subway-Windows_1024x_a0b8cv.webp",
       "artist": "Swoon",
       "location": {
         "neighborhood": "Bushwick",
@@ -40,6 +41,7 @@
     },
     {
       "id": 4,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706645788/Hidden%20Murals/inside_out_JR_vaoo0j.jpg",
       "artist": "JR",
       "location": {
         "neighborhood": "DUMBO",
@@ -52,6 +54,7 @@
     },
     {
       "id": 5,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706646284/Hidden%20Murals/brooklyn-street-art-faithXLVII-232am-projects-07-18-web-3_ixugky.jpg",
       "artist": "Faith47",
       "location": {
         "neighborhood": "Harlem",
@@ -64,6 +67,7 @@
     },
     {
       "id": 6,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706646776/Hidden%20Murals/1200px-Space_Invader__Greenpoint_Brooklyn__2164382388_zyzrfv.jpg",
       "artist": "Invader",
       "location": {
         "neighborhood": "Greenpoint",
@@ -76,6 +80,7 @@
     },
     {
       "id": 7,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706647348/Hidden%20Murals/IMG_0190_sfjsld.png",
       "artist": "Lady Pink",
       "location": {
         "neighborhood": "Queens",
@@ -87,6 +92,7 @@
     },
     {
       "id": 8,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706647554/Hidden%20Murals/f485db688a960e582be56192bf1874721d-11-dface_e0gxc2.webp",
       "artist": "D*Face",
       "location": {
         "neighborhood": "Meatpacking District",
@@ -99,6 +105,7 @@
     },
     {
       "id": 9,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706647981/Hidden%20Murals/Roa-street-art-in-Williamsburg-Brooklyn_aghese.jpg",
       "artist": "ROA",
       "location": "Brooklyn Navy Yard",
       "intersection": "Flushing Ave & Navy St",

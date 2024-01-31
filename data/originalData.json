@@ -310,6 +310,7 @@
     },
     {
       "id": 25,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706720065/Hidden%20Murals%20NYC/nychos_sta9pv.jpg",
       "artist": "Nychos",
       "location": {
         "neighborhood": "Coney Island",
@@ -322,6 +323,7 @@
     },
     {
       "id": 26,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706719978/Hidden%20Murals%20NYC/Herculkes_at_the_crossroads_f3czhg.jpg",
       "artist": "Buff Monster",
       "location": {
         "neighborhood": "Coney Island",

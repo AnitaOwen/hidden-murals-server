@@ -116,15 +116,16 @@
     },
     {
       "id": 10,
-      "artist": "Olek",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706719721/Hidden%20Murals%20NYC/bigpun_tpgfjm.webp",
+      "artist": "Tats Cru",
       "location": {
-        "neighborhood": "East Village",
-        "borough": "Manhattan",
-        "intersection": "Avenue A & E 9th St"
+        "neighborhood": "Longwood",
+        "borough": "Bronx",
+        "intersection": "163rd St & Rogers Pl"
       },
-      "title": "Crocheted Cosmos",
-      "year": 2019,
-      "description": "Olek's unique crocheted artwork covering an entire building facade."
+      "title": "Big Pun",
+      "year": 2023,
+      "description": "A mural depicting Big Pun"
     },
     {
       "id": 11,
@@ -152,15 +153,16 @@
     },
     {
       "id": 13,
-      "artist": "Borondo",
+      "artist": "Dragon76",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706719125/Hidden%20Murals%20NYC/Dragon76_iaoike.jpg",
       "location": {
-        "neighborhood": "Red Hook",
-        "borough": "Brooklyn",
-        "intersection": "Van Brunt St & Coffey St"
+        "neighborhood": "Financial District",
+        "borough": "Manhattan",
+        "intersection": "Vesey St & West St."
       },
-      "title": "Transparent Layers",
-      "year": 2017,
-      "description": "Borondo's layered and transparent mural exploring depth and perception."
+      "title": "unknown",
+      "year": 2023,
+      "description": "With a style described as “Mad Max meets the future,” Dragon is the latest street artist to work on the World Trade Center campus. This is the second mural Dragon has done on the site, having painted another one in 2018 next to the St. Nicholas Shrine. His mural draws inspiration from the American west and features an indigenous woman."
     },
     {
       "id": 14,
@@ -168,35 +170,37 @@
       "location": {
         "neighborhood": "East Harlem",
         "borough": "Manhattan",
-        "intersection": "Third Ave & E 106th St"
+        "intersection": "111th St. & Lexington Ave"
       },
-      "title": "Harlem Portrait",
-      "year": 2015,
-      "description": "El Mac's realistic portrait capturing the spirit of Harlem."
+      "title": "El Regalo Mágico / The Magic Gift",
+      "year": 2016,
+      "description": "The title of the mural refers to the gift of inspiration. The figure is based on respected Nuyorican author Nicholasa Mohr, who lives nearby, and is known for being one of the first widely published Latina authors in the United States.Cero's part, the geometric infinity pattern that forms a halo around the figure, is composed entirely of tile mosaic."
     },
     {
       "id": 15,
       "artist": "Dasic Fernandez",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706716322/Hidden%20Murals%20NYC/Dasic_Fernandez_hfqmwq.jpg",
       "location": {
         "neighborhood": "Long Island City",
         "borough": "Queens",
-        "intersection": "Jackson Ave & Pearson St"
+        "intersection": "23rd St & 44th Rd"
       },
-      "title": "Cosmic Wave",
-      "year": 2022,
-      "description": "Dasic Fernandez's vibrant cosmic wave mural in LIC."
+      "title": "unknown",
+      "year": 2015,
+      "description": "Dasic Fernandez is a Chilean graffiti street artist."
     },
     {
       "id": 16,
-      "artist": "Alice Pasquini",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706714014/Hidden%20Murals%20NYC/WuTang-WillPower-Stapleton_k4rpwq.avif",
+      "artist": "Will Power",
       "location": {
-        "neighborhood": "East Village",
-        "borough": "Manhattan",
-        "intersection": "E 7th St & Avenue C"
+        "neighborhood": "Stapleton",
+        "borough": "Staten Island",
+        "intersection": "Canal St & Wright St"
       },
-      "title": "Urban Stories",
-      "year": 2019,
-      "description": "Alice Pasquini's narrative-driven mural reflecting urban stories."
+      "title": "untitled",
+      "year": 2021,
+      "description": "Will Power's “massive tribute wall” to hip-hop legends."
     },
     {
       "id": 17,
@@ -439,17 +443,17 @@
       "muralId": 9, 
       "author": "WildlifeExplorer" 
     },
-    { 
-      "id": 19, 
-      "text": "Olek's Crocheted Cosmos is a true masterpiece of unique artistic expression.", 
-      "muralId": 10, 
-      "author": "TextileArtAficionado" 
+    {
+      "id": 19,
+      "text": "Just found Tats Cru's 'Big Pun' mural in Longwood, Bronx! A powerful tribute capturing the essence of the legendary artist. Love stumbling upon such impactful pieces in the heart of the borough!",
+      "muralId": 10,
+      "author": "BronxExplorer101"
     },
-    { 
+    {
       "id": 20,
-      "text": "Crocheted Cosmos by Olek is a captivating blend of art and craft.", 
-      "muralId": 10, 
-      "author": "CraftArtEnthusiast" 
+      "text": "Tats Cru's 'Big Pun' mural is a gem in Longwood! The depiction of Big Pun is so vivid and resonates with the Bronx's rich cultural history. Awesome to see artists celebrating legends in such a vibrant way!",
+      "muralId": 10,
+      "author": "ArtHistoryFanatic"
     },
     { 
       "id": 21, 
@@ -475,53 +479,53 @@
       "muralId": 12, 
       "author": "NatureMechanic" 
     },
-    { 
-      "id": 25, 
-      "text": "Borondo's Transparent Layers mural at Van Brunt St is a mesmerizing play of depth.", 
-      "muralId": 13, 
-      "author": "DepthExplorer" 
-    },
-    { 
-      "id": 26, 
-      "text": "Transparent Layers by Borondo adds a fascinating perspective to Red Hook's streets.", 
-      "muralId": 13, 
-      "author": "PerspectiveArtist" 
-    },
-    { 
-      "id": 27, 
-      "text": "El Mac's Harlem Portrait captures the spirit of East Harlem with impressive realism.", 
-      "muralId": 14, 
-      "author": "HarlemSpiritObserver" 
-    },
-    { 
-      "id": 28, 
-      "text": "Harlem Portrait by El Mac is a stunning portrayal of the local community's essence.", 
-      "muralId": 14, 
-      "author": "RealismAppreciator" 
-    },
+    {
+      "id": 25,
+      "text": "Stumbled upon Dragon76's amazing mural! It's like a futuristic journey with Mad Max vibes and a touch of the American west. The indigenous woman adds a special touch. Love discovering unique art in the heart of the city!",
+      "muralId": 13,
+      "author": "CityExplorer87"
+    },    
+    {
+      "id": 26,
+      "text": "Just came across this mural, and it blew my mind! The mix of Mad Max and futuristic elements is visually stunning. The story inspired by the American west, along with the indigenous woman, creates a mesmerizing experience. Kudos to the artist for this fantastic blend of influences!",
+      "muralId": 13,
+      "author": "ArtAdventurer55"
+    },    
+    {
+      "id": 27,
+      "text": "El Mac's 'El Regalo Mágico' is like a living storybook on the streets of East Harlem. Nicholasa Mohr's presence feels like a whispered tale, and Cero's intricate tile mosaic adds a touch of magical geometry. An enchanting gift of art!",
+      "muralId": 14,
+      "author": "StreetStoryteller"
+    },    
+    {
+      "id": 28,
+      "text": "Stepping into El Mac's 'El Regalo Mágico' is like entering a realm where inspiration takes form. Nicholasa Mohr's figure brings literary grace, and Cero's geometric infinity pattern feels like a visual dance. An extraordinary fusion of art and magic in Manhattan!",
+      "muralId": 14,
+      "author": "MagicalRealist"
+    },    
     { 
       "id": 29, 
-      "text": "Dasic Fernandez's Cosmic Wave brings vibrant energy to Long Island City.", 
+      "text": "Dasic Fernandez brings vibrant energy to Long Island City.", 
       "muralId": 15, 
       "author": "CosmicWaveAdmirer" 
     },
     { 
       "id": 30, 
-      "text": "Cosmic Wave is a testament to Dasic Fernandez's mastery of color and movement.", 
+      "text": "This mural is a testament to Dasic Fernandez's mastery of color and movement.", 
       "muralId": 15, 
       "author": "ColorMovementEnthusiast" 
     },
-    { 
-      "id": 31, 
-      "text": "Alice Pasquini's Urban Stories mural narrates the tales of East Village's streets.", 
-      "muralId": 16, 
-      "author": "UrbanStoryteller" 
-    },
-    { 
-      "id": 32, 
-      "text": "Urban Stories by Alice Pasquini is a beautiful narrative woven into the city walls.", 
-      "muralId": 16, 
-      "author": "NarrativeArtFan" 
+    {
+      "id": 31,
+      "text": "Will Power's 'untitled' mural is a massive tribute to hip-hop legends. The portrayal is both impactful and reverent, capturing the essence of the genre's influence. A visual ode that resonates!",
+      "muralId": 16,
+      "author": "HipHopHarmony"
+    },    
+    {
+      "id": 31,
+      "text": "Will Power's 'untitled' mural is a massive tribute to hip-hop legends. The portrayal is both impactful and reverent, capturing the essence of the genre's influence. A visual ode that resonates!",
+      "muralId": 16,
+      "author": "HipHopHarmony"
     },
     { 
       "id": 33, 
@@ -586,7 +590,8 @@
     },
     { 
       "id": 43, 
-      "text": "The Day After by How & Nosm on E Houston St is a graffiti-based masterpiece with a powerful impact.", "muralId": 22, 
+      "text": "The Day After by How & Nosm on E Houston St is a graffiti-based masterpiece with a powerful impact.", 
+      "muralId": 22, 
       "author": "GraffitiArtAficionado" 
     },
     { 

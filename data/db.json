@@ -128,6 +128,7 @@
     },
     {
       "id": 11,
+      "image": "https://res.cloudinary.com/dhexjuuzd/image/upload/v1706717460/Hidden%20Murals/Stik-Street-Art-Alphabet-City-NYC_wxg4db.jpg",
       "artist": "Stik",
       "location": {
         "neighborhood": "Chinatown",
@@ -140,14 +141,15 @@
     },
     {
       "id": 12,
+      "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706719491/Hidden%20Murals/img_4174_b6cipt.webp",
       "artist": "Pixel Pancho",
       "location": {
-        "neighborhood": "Bushwick",
-        "borough": "Brooklyn",
-        "intersection": "Jefferson St & Wyckoff Ave"
+        "neighborhood": "Chelsea",
+        "borough": "Manhattan",
+        "intersection": "22nd St & 10th Ave"
       },
-      "title": "Mechanical Nature",
-      "year": 2018,
+      "title": "Robot Lady of Leisure",
+      "year": 2017,
       "description": "Pixel Pancho's robotic-themed mural blending nature and machinery."
     },
     {

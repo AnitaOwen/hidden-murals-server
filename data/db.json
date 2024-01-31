@@ -200,15 +200,16 @@
     },
     {
       "id": 17,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706666026/Hidden%20Murals%20NYC/RonEnglish-Grinnies_h8gqdn.jpg",
       "artist": "Ron English",
       "location": {
-        "neighborhood": "Williamsburg",
+        "neighborhood": "Coney Island",
         "borough": "Brooklyn",
-        "intersection": "Wythe Ave & N 11th St"
+        "intersection": "Stillwell Ave & Bowery St."
       },
-      "title": "POPaganda",
-      "year": 2014,
-      "description": "Ron English's colorful and satirical POPaganda mural."
+      "title": "Coney Island Grinnies",
+      "year": 2015,
+      "description": "Happiness sticks to your face! And ecstasy peels it right off! The idea of the grinnie treatment is to illustrate how the expression of happiness inadvertently reveals the soul."
     },
     {
       "id": 18,
@@ -251,15 +252,16 @@
     },
     {
       "id": 21,
-      "artist": "Maya Hayuk",
+      "artist": "Rocko & Joel Artista",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706664899/Hidden%20Murals%20NYC/Rocko_Joel_Artista_yh6wbk.jpg",
       "location": {
         "neighborhood": "Bushwick",
         "borough": "Brooklyn",
-        "intersection": "Flushing Ave & Bogart St"
+        "intersection": "St Nicholas Ave & Troutman St"
       },
-      "title": "Colorful Cosmos",
-      "year": 2018,
-      "description": "Maya Hayuk's vibrant and abstract cosmic mural."
+      "title": "unknown",
+      "year": 2015,
+      "description": "Spread Art NYC, led by Naofal Alaoui (aka Rocko), helped bring this calligraffiti mural to life in 2015, located across from 247 Troutman Street. Working with Joel Bergner (aka Joel Artista), the two executed a mural based on an ongoing portrait series by acclaimed photographer and cinematographer Barron Claiborne"
     },
     {
       "id": 22,
@@ -302,68 +304,346 @@
     },
     {
       "id": 25,
-      "artist": "David Choe",
+      "artist": "Nychos",
       "location": {
-        "neighborhood": "Chinatown",
-        "borough": "Manhattan",
-        "intersection": "Canal St & Mott St"
+        "neighborhood": "Coney Island",
+        "borough": "Brookyln",
+        "intersection": "Stillwell Ave & Bowery St."
       },
-      "title": "Urban Fusion",
-      "year": 2022,
-      "description": "David Choe's dynamic mural blending urban elements in Chinatown."
+      "title": "Untitled",
+      "year": 2016,
+      "description": "Blending themes of morbid corporeality with the colorful, hyper-loony aesthetic descended from comics and cartoons, Nychos has developed a unique style that performs with powerhouse effect whether on the street or in the gallery."
+    },
+    {
+      "id": 26,
+      "artist": "Buff Monster",
+      "location": {
+        "neighborhood": "Coney Island",
+        "borough": "Brooklyn",
+        "intersection": "Stillwell Ave & Bowery St."
+      },
+      "title": "Hercules at the Crossroads",
+      "year": 2015,
+      "description": "I’ve chosen to recreate an allegory painted many times during the Renaissance: Hercules at the Crossroads. Traditionally, Hercules is placed in the middle; on the left is a life of virtue (represented by a treacherous mountains) and a life of sin and unhealthy choices on the right (represented by lakes and wooded areas). I¹ve maintained the positions of the different paths, but inverted the imagery because I think living an honest life can be easy and appealing. In the painting we see that Hercules is right in the process of making that choice: he¹s looking towards the sweet side while his spear creates a visual barrier to the unhealthy side. I think the scene also relates perfectly to Coney Island Art Walls project; celebrating the possibilities of new development over the run-down norm. - Buff Monster"
     }
   ],
+
+  
   "comments": [
-    { "id": "1", "text": "Absolutely captivating! Banksy's art always speaks volumes.", "muralId": "1", "author": "ArtEnthusiast23" },
-    { "id": "2", "text": "The symbolism behind Balloon Girl is both poignant and beautiful.", "muralId": "1", "author": "UrbanExplorer" },
-    { "id": "3", "text": "Shepard Fairey's political murals are a powerful form of expression.", "muralId": "2", "author": "PoliticalArtCritic" },
-    { "id": "4", "text": "Obey Mural stands tall, conveying a strong and thought-provoking message.", "muralId": "2", "author": "VisualActivist" },
-    { "id": "5", "text": "Swoon's wheatpaste art on Troutman St is like stepping into a dream.", "muralId": "3", "author": "DreamSeeker" },
-    { "id": "6", "text": "Subway Dreaming by Swoon adds a touch of magic to Bushwick's streets.", "muralId": "3", "author": "LocalArtFanatic" },
-    { "id": "7", "text": "JR's Inside Out Project celebrates the diversity of DUMBO.", "muralId": "4", "author": "CommunityHarmony" },
-    { "id": "8", "text": "Pasted portraits by JR tell the unique stories of the people in the community.", "muralId": "4", "author": "PortraitEnthusiast" },
-    { "id": "9", "text": "Faith47's mural in Harlem radiates themes of freedom and unity.", "muralId": "5", "author": "FreedomDreamer" },
-    { "id": "10", "text": "The Unbound by Faith47 is a testament to the power of art in conveying messages.", "muralId": "5", "author": "ArtPhilosopher" },
-    { "id": "11", "text": "Invader's pixelated mosaic at Manhattan Ave is a modern masterpiece.", "muralId": "6", "author": "PixelArtAdmirer" },
-    { "id": "12", "text": "Space Invader brings a touch of the digital world to the streets of Greenpoint.", "muralId": "6", "author": "DigitalExplorer" },
-    { "id": "13", "text": "Lady Pink's Queens Connection celebrates the rich diversity of the neighborhood.", "muralId": "7", "author": "CulturalHarmony" },
-    { "id": "14", "text": "Queens Connection adds vibrancy and color to Long Island City.", "muralId": "7", "author": "ColorfulExplorer" },
-    { "id": "15", "text": "D*Face's Love and Death mural is a contemplation of the profound aspects of life.", "muralId": "8", "author": "PhilosophicalArtLover" },
-    { "id": "16", "text": "Love and Death by D*Face sparks introspection with its deep thematic exploration.", "muralId": "8", "author": "DeepThinker" },
-    { "id": "17", "text": "ROA's Wildlife Harmony is like a detailed encyclopedia of the natural world.", "muralId": "9", "author": "NatureLover" },
-    { "id": "18", "text": "Wildlife Harmony by ROA brings the Brooklyn Navy Yard to life with intricate details.", "muralId": "9", "author": "WildlifeExplorer" },
-    { "id": "19", "text": "Olek's Crocheted Cosmos is a true masterpiece of unique artistic expression.", "muralId": "10", "author": "TextileArtAficionado" },
-    { "id": "20", "text": "Crocheted Cosmos by Olek is a captivating blend of art and craft.", "muralId": "10", "author": "CraftArtEnthusiast" },
-    { "id": "21", "text": "Stik's Unity mural sends a powerful message of inclusivity to Chinatown.", "muralId": "11", "author": "UnityAdvocate" },
-    { "id": "22", "text": "The simplicity of Stik's mural in Allen St is a beautiful representation of unity.", "muralId": "11", "author": "SimpleArtLover" },
-    { "id": "23", "text": "Pixel Pancho's Mechanical Nature blends the organic and the mechanical seamlessly.", "muralId": "12", "author": "TechArtEnthusiast" },
-    { "id": "24", "text": "Mechanical Nature is a testament to Pixel Pancho's unique fusion of nature and machinery.", "muralId": "12", "author": "NatureMechanic" },
-    { "id": "25", "text": "Borondo's Transparent Layers mural at Van Brunt St is a mesmerizing play of depth.", "muralId": "13", "author": "DepthExplorer" },
-    { "id": "26", "text": "Transparent Layers by Borondo adds a fascinating perspective to Red Hook's streets.", "muralId": "13", "author": "PerspectiveArtist" },
-    { "id": "27", "text": "El Mac's Harlem Portrait captures the spirit of East Harlem with impressive realism.", "muralId": "14", "author": "HarlemSpiritObserver" },
-    { "id": "28", "text": "Harlem Portrait by El Mac is a stunning portrayal of the local community's essence.", "muralId": "14", "author": "RealismAppreciator" },
-    { "id": "29", "text": "Dasic Fernandez's Cosmic Wave brings vibrant energy to Long Island City.", "muralId": "15", "author": "CosmicWaveAdmirer" },
-    { "id": "30", "text": "Cosmic Wave is a testament to Dasic Fernandez's mastery of color and movement.", "muralId": "15", "author": "ColorMovementEnthusiast" },
-    { "id": "31", "text": "Alice Pasquini's Urban Stories mural narrates the tales of East Village's streets.", "muralId": "16", "author": "UrbanStoryteller" },
-    { "id": "32", "text": "Urban Stories by Alice Pasquini is a beautiful narrative woven into the city walls.", "muralId": "16", "author": "NarrativeArtFan" },
-    { "id": "33", "text": "Ron English's POPaganda is a burst of satirical brilliance in Williamsburg.", "muralId": "17", "author": "SatiricalObserver" },
-    { "id": "34", "text": "POPaganda by Ron English adds a touch of humor and color to Wythe Ave.", "muralId": "17", "author": "HumorArtAppreciator" },
-    { "id": "35", "text": "Os Gemeos' Dreamscape on Coney Island is a surreal journey in street art.", "muralId": "18", "author": "DreamscapeExplorer" },
-    { "id": "36", "text": "Dreamscape by Os Gemeos is a timeless masterpiece in the heart of Brooklyn.", "muralId": "18", "author": "TimelessArtLover" },
-    { "id": "37", "text": "Vhils' chiseled mural in Little Italy is a unique portrait of artist TJ Mizell.", "muralId": "19", "author": "ChiseledPortraitsFan" },
-    { "id": "38", "text": "Vhils' unknown portrait is a captivating addition to the artistic scene in Little Italy.", "muralId": "19", "author": "ArtMysteryEnthusiast" },
-    { "id": "39", "text": "Banksy's Hammer Boy on the Upper West Side is a modest yet impactful stencil piece.", "muralId": "20", "author": "StencilArtAdmirer" },
-    { "id": "40", "text": "Hammer Boy by Banksy remains intact, a testament to guerilla art preservation.", "muralId": "20", "author": "PreservationistArtLover" },
-    { "id": "41", "text": "Maya Hayuk's Colorful Cosmos in Bushwick is a breathtaking explosion of vibrant hues.", "muralId": "21", "author": "VibrantCosmosFan" },
-    { "id": "42", "text": "Colorful Cosmos is a true testament to Maya Hayuk's mastery of abstract cosmic art.", "muralId": "21", "author": "AbstractCosmicArtLover" },
-    { "id": "43", "text": "The Day After by How & Nosm on E Houston St is a graffiti-based masterpiece with a powerful impact.", "muralId": "22", "author": "GraffitiArtAficionado" },
-    { "id": "44", "text": "The Day After is an intriguing display of How & Nosm's unique graffiti style.", "muralId": "22", "author": "UrbanExpressionist" },
-    { "id": "45", "text": "Logan Hicks' Story of My Life intricately narrates the urban labyrinth at E Houston St.", "muralId": "23", "author": "UrbanLabyrinthStoryteller" },
-    { "id": "46", "text": "Story of My Life is a captivating blend of realism and abstraction, a Logan Hicks trademark.", "muralId": "23", "author": "RealismAbstractionAdmirer" },
-    { "id": "47", "text": "Buff Monster's Melty World in Lower East Side is a delightful burst of color and cuteness.", "muralId": "24", "author": "MeltyWorldEnthusiast" },
-    { "id": "48", "text": "Melty World showcases Buff Monster's talent in bringing cute monsters and melty elements to life.", "muralId": "24", "author": "CutenessArtLover" },
-    { "id": "49", "text": "David Choe's Urban Fusion in Chinatown is a dynamic blend of urban elements that captivates the eyes.", "muralId": "25", "author": "UrbanBlendObserver" },
-    { "id": "50", "text": "Urban Fusion beautifully showcases David Choe's ability to fuse dynamic elements in street art.", "muralId": "25", "author": "DynamicFusionAppreciator" }
+    { 
+      "id": 1, 
+      "text": "Absolutely captivating! Banksy's art always speaks volumes.", 
+      "muralId": 1, 
+      "author": "ArtEnthusiast23" 
+    },
+    { 
+      "id": 2, 
+      "text": "The symbolism behind Balloon Girl is both poignant and beautiful.", 
+      "muralId": 1, 
+      "author": "UrbanExplorer" 
+    },
+    { 
+      "id": 3, 
+      "text": "Shepard Fairey's political murals are a powerful form of expression.", 
+      "muralId": 2, 
+      "author": "PoliticalArtCritic" 
+    },
+    { 
+      "id": 4, 
+      "text": "Obey Mural stands tall, conveying a strong and thought-provoking message.", 
+      "muralId": 2, 
+      "author": "VisualActivist" 
+    },
+    { 
+      "id": 5, 
+      "text": "Swoon's wheatpaste art on Troutman St is like stepping into a dream.", 
+      "muralId": 3, 
+      "author": "DreamSeeker" 
+    },
+    { 
+      "id": 6, 
+      "text": "Subway Dreaming by Swoon adds a touch of magic to Bushwick's streets.", 
+      "muralId": 3, 
+      "author": "LocalArtFanatic" 
+    },
+    { 
+      "id": 7, 
+      "text": "JR's Inside Out Project celebrates the diversity of DUMBO.", 
+      "muralId": 4,
+      "author": "CommunityHarmony" 
+    },
+    { 
+      "id": 8,
+      "text": "Pasted portraits by JR tell the unique stories of the people in the community.", 
+      "muralId": 4, 
+      "author": "PortraitEnthusiast" 
+    },
+    { 
+      "id": 9, 
+      "text": "Faith47's mural in Harlem radiates themes of freedom and unity.", 
+      "muralId": 5, 
+      "author": "FreedomDreamer" 
+    },
+    { 
+      "id": 10, 
+      "text": "The Unbound by Faith47 is a testament to the power of art in conveying messages.", 
+      "muralId": 5, 
+      "author": "ArtPhilosopher" 
+    },
+    { 
+      "id": 11, 
+      "text": "Invader's pixelated mosaic at Manhattan Ave is a modern masterpiece.", 
+      "muralId": 6, 
+      "author": "PixelArtAdmirer" 
+    },
+    { 
+      "id": 12, 
+      "text": "Space Invader brings a touch of the digital world to the streets of Greenpoint.", 
+      "muralId": 6, 
+      "author": "DigitalExplorer" 
+    },
+    { 
+      "id": 13, 
+      "text": "Lady Pink's Queens Connection celebrates the rich diversity of the neighborhood.", 
+      "muralId": 7, 
+      "author": "CulturalHarmony" 
+    },
+    { 
+      "id": 14, 
+      "text": "Queens Connection adds vibrancy and color to Long Island City.", 
+      "muralId": 7,
+      "author": "ColorfulExplorer" 
+    },
+    { 
+      "id": 15, 
+      "text": "D*Face's Love and Death mural is a contemplation of the profound aspects of life.", 
+      "muralId": 8, 
+      "author": "PhilosophicalArtLover" 
+    },
+    { 
+      "id": 16, 
+      "text": "Love and Death by D*Face sparks introspection with its deep thematic exploration.", 
+      "muralId": 8, 
+      "author": "DeepThinker" 
+    },
+    { 
+      "id": 17, 
+      "text": "ROA's Wildlife Harmony is like a detailed encyclopedia of the natural world.", 
+      "muralId": 9, 
+      "author": "NatureLover" 
+    
+    },
+    { 
+      "id": 18, 
+      "text": "Wildlife Harmony by ROA brings the Brooklyn Navy Yard to life with intricate details.", 
+      "muralId": 9, 
+      "author": "WildlifeExplorer" 
+    },
+    { 
+      "id": 19, 
+      "text": "Olek's Crocheted Cosmos is a true masterpiece of unique artistic expression.", 
+      "muralId": 10, 
+      "author": "TextileArtAficionado" 
+    },
+    { 
+      "id": 20,
+      "text": "Crocheted Cosmos by Olek is a captivating blend of art and craft.", 
+      "muralId": 10, 
+      "author": "CraftArtEnthusiast" 
+    },
+    { 
+      "id": 21, 
+      "text": "Stik's Unity mural sends a powerful message of inclusivity to Chinatown.", 
+      "muralId": 11, 
+      "author": "UnityAdvocate" 
+    },
+    { 
+      "id": 22, 
+      "text": "The simplicity of Stik's mural in Allen St is a beautiful representation of unity.", 
+      "muralId": 11, 
+      "author": "SimpleArtLover" 
+    },
+    { 
+      "id": 23, 
+      "text": "Pixel Pancho's Mechanical Nature blends the organic and the mechanical seamlessly.", 
+      "muralId": 12, 
+      "author": "TechArtEnthusiast" 
+    },
+    { 
+      "id": 24, 
+      "text": "Mechanical Nature is a testament to Pixel Pancho's unique fusion of nature and machinery.", 
+      "muralId": 12, 
+      "author": "NatureMechanic" 
+    },
+    { 
+      "id": 25, 
+      "text": "Borondo's Transparent Layers mural at Van Brunt St is a mesmerizing play of depth.", 
+      "muralId": 13, 
+      "author": "DepthExplorer" 
+    },
+    { 
+      "id": 26, 
+      "text": "Transparent Layers by Borondo adds a fascinating perspective to Red Hook's streets.", 
+      "muralId": 13, 
+      "author": "PerspectiveArtist" 
+    },
+    { 
+      "id": 27, 
+      "text": "El Mac's Harlem Portrait captures the spirit of East Harlem with impressive realism.", 
+      "muralId": 14, 
+      "author": "HarlemSpiritObserver" 
+    },
+    { 
+      "id": 28, 
+      "text": "Harlem Portrait by El Mac is a stunning portrayal of the local community's essence.", 
+      "muralId": 14, 
+      "author": "RealismAppreciator" 
+    },
+    { 
+      "id": 29, 
+      "text": "Dasic Fernandez's Cosmic Wave brings vibrant energy to Long Island City.", 
+      "muralId": 15, 
+      "author": "CosmicWaveAdmirer" 
+    },
+    { 
+      "id": 30, 
+      "text": "Cosmic Wave is a testament to Dasic Fernandez's mastery of color and movement.", 
+      "muralId": 15, 
+      "author": "ColorMovementEnthusiast" 
+    },
+    { 
+      "id": 31, 
+      "text": "Alice Pasquini's Urban Stories mural narrates the tales of East Village's streets.", 
+      "muralId": 16, 
+      "author": "UrbanStoryteller" 
+    },
+    { 
+      "id": 32, 
+      "text": "Urban Stories by Alice Pasquini is a beautiful narrative woven into the city walls.", 
+      "muralId": 16, 
+      "author": "NarrativeArtFan" 
+    },
+    { 
+      "id": 33, 
+      "text": "Ron English's 'Coney Island Grinnies' is a joyful masterpiece! The concept of portraying happiness and its connection to the soul is both thought-provoking and visually delightful. Kudos to the artist for spreading positivity through art.", 
+      "muralId": 17, 
+      "author": "SmileSeeker99" 
+    },
+    { 
+      "id": 34, 
+      "text": "The 'Coney Island Grinnies' mural by Ron English is a brilliant representation of the complexity of human emotions. The use of vibrant colors and the playful depiction of happiness make this piece a standout in Coney Island. Ron English's creativity is truly captivating!", 
+      "muralId": 17, 
+      "author": "HumorArtAppreciator" 
+    
+    },
+    { 
+      "id": 35, 
+      "text": "Os Gemeos' Dreamscape on Coney Island is a surreal journey in street art.", 
+      "muralId": 18, 
+      "author": "DreamscapeExplorer" 
+    },
+    { 
+      "id": 36, 
+      "text": "Dreamscape by Os Gemeos is a timeless masterpiece in the heart of Brooklyn.", 
+      "muralId": 18, 
+      "author": "TimelessArtLover" 
+    },
+    { 
+      "id": 37, 
+      "text": "Vhils' chiseled mural in Little Italy is a unique portrait of artist TJ Mizell.", 
+      "muralId": 19, 
+      "author": "ChiseledPortraitsFan" 
+    },
+    { 
+      "id": 38, 
+      "text": "Vhils' unknown portrait is a captivating addition to the artistic scene in Little Italy.", 
+      "muralId": 19, 
+      "author": "ArtMysteryEnthusiast" 
+    },
+    { 
+      "id": 39, 
+      "text": "Banksy's Hammer Boy on the Upper West Side is a modest yet impactful stencil piece.", 
+      "muralId": 20, 
+      "author": "StencilArtAdmirer" 
+    },
+    { 
+      "id": 40, 
+      "text": "Hammer Boy by Banksy remains intact, a testament to guerilla art preservation.", 
+      "muralId": 20, 
+      "author": "PreservationistArtLover" 
+    },
+    { 
+      "id": 41, 
+      "text": "This mural is a vibrant masterpiece! The use of colors is mesmerizing, and the calligraffiti technique adds a unique touch. Kudos to Rocko & Joel Artista for creating such a captivating piece of art.", 
+      "muralId": 21, 
+      "author": "ArtLover87" 
+    },
+    { 
+      "id": 42, 
+      "text": "I love the connection between the mural and the photographer's portrait series. It's incredible how art can bring different forms of creativity together. The location in Bushwick makes it a standout piece in Brooklyn. Great collaboration by Rocko & Joel Artista!", 
+      "muralId": 21, 
+      "author": "UrbanExplorer23" 
+    },
+    { 
+      "id": 43, 
+      "text": "The Day After by How & Nosm on E Houston St is a graffiti-based masterpiece with a powerful impact.", "muralId": 22, 
+      "author": "GraffitiArtAficionado" 
+    },
+    { 
+      "id": 44, 
+      "text": "The Day After is an intriguing display of How & Nosm's unique graffiti style.",
+      "muralId": 22, 
+      "author": "UrbanExpressionist" 
+    },
+    { 
+      "id": 45, 
+      "text": "Logan Hicks' Story of My Life intricately narrates the urban labyrinth at E Houston St.", 
+      "muralId": 23, 
+      "author": "UrbanLabyrinthStoryteller" 
+    },
+    { 
+      "id": 46, 
+      "text": "Story of My Life is a captivating blend of realism and abstraction, a Logan Hicks trademark.",
+      "muralId": 23, 
+      "author": "RealismAbstractionAdmirer" 
+    },
+    { 
+      "id": 47, 
+      "text": "Buff Monster's Melty World in Lower East Side is a delightful burst of color and cuteness.", 
+      "muralId": 24, 
+      "author": "MeltyWorldEnthusiast" 
+    },
+    { 
+      "id": 48, 
+      "text": "Melty World showcases Buff Monster's talent in bringing cute monsters and melty elements to life.", 
+      "muralId": 24, 
+      "author": "CutenessArtLover" 
+    },
+    {
+      "id": 49,
+      "text": "Nychos' mural is a visual symphony of morbid whimsy! 🎨",
+      "muralId": 25,
+      "author": "QuirkAficionado"
+    },    
+    {
+      "id": 50,
+      "text": "A burst of surreal brilliance by Nychos! 🌟",
+      "muralId": 25,
+      "author": "WhimsyWatcher"
+    },    
+    {
+      "id": 51,
+      "text": "Buff Monster's Renaissance twist sparks imagination! Coney Island's rebirth amplifies the mural's charm. Kudos to Buff Monster's vibrant ingenuity!",
+      "muralId": 26,
+      "author": "ImaginationSeeker"
+    },    
+    {
+      "id": 52,
+      "text": "Buff Monster's mural unveils potent symbols. Hercules leans toward sweetness, mirroring life's pivotal choices. Coney Island's evolution echoes positive transformations. Thoughtful and inspiring!",
+      "muralId": 26,
+      "author": "MindfulObserver"
+    }    
+    
   ]
 }
 

@@ -116,7 +116,7 @@
     },
     {
       "id": 10,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706719721/Hidden%20Murals%20NYC/bigpun_tpgfjm.webp",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706719721/Hidden%20Murals%20NYC/bigpun_tpgfjm.webp",
       "artist": "Tats Cru",
       "location": {
         "neighborhood": "Longwood",
@@ -156,20 +156,20 @@
     {
       "id": 13,
       "artist": "Dragon76",
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706719125/Hidden%20Murals%20NYC/Dragon76_iaoike.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_720/v1706719125/Hidden%20Murals%20NYC/Dragon76_iaoike.jpg",
       "location": {
         "neighborhood": "Financial District",
         "borough": "Manhattan",
         "intersection": "Vesey St & West St."
       },
-      "title": "unknown",
+      "title": "Unknown",
       "year": 2023,
       "description": "With a style described as “Mad Max meets the future,” Dragon is the latest street artist to work on the World Trade Center campus. This is the second mural Dragon has done on the site, having painted another one in 2018 next to the St. Nicholas Shrine. His mural draws inspiration from the American west and features an indigenous woman."
     },
     {
       "id": 14,
       "artist": "El Mac",
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706722218/Hidden%20Murals%20NYC/Elmac_fr2azx.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706722218/Hidden%20Murals%20NYC/Elmac_fr2azx.jpg",
       "location": {
         "neighborhood": "East Harlem",
         "borough": "Manhattan",
@@ -182,7 +182,7 @@
     {
       "id": 15,
       "artist": "Dasic Fernandez",
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706716322/Hidden%20Murals%20NYC/Dasic_Fernandez_hfqmwq.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_872/v1706716322/Hidden%20Murals%20NYC/Dasic_Fernandez_hfqmwq.jpg",
       "location": {
         "neighborhood": "Long Island City",
         "borough": "Queens",
@@ -194,7 +194,7 @@
     },
     {
       "id": 16,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706714014/Hidden%20Murals%20NYC/WuTang-WillPower-Stapleton_k4rpwq.avif",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706714014/Hidden%20Murals%20NYC/WuTang-WillPower-Stapleton_k4rpwq.avif",
       "artist": "Will Power",
       "location": {
         "neighborhood": "Stapleton",
@@ -203,11 +203,11 @@
       },
       "title": "Untitled",
       "year": 2021,
-      "description": "Will Power's “massive tribute wall” to hip-hop legends."
+      "description": "Will Power's massive tribute wall to hip-hop legends."
     },
     {
       "id": 17,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706666026/Hidden%20Murals%20NYC/RonEnglish-Grinnies_h8gqdn.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706666026/Hidden%20Murals%20NYC/RonEnglish-Grinnies_h8gqdn.jpg",
       "artist": "Ron English",
       "location": {
         "neighborhood": "Coney Island",
@@ -220,7 +220,7 @@
     },
     {
       "id": 18,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706651564/Hidden%20Murals%20NYC/dreamscape_cnj1yo.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706651564/Hidden%20Murals%20NYC/dreamscape_cnj1yo.jpg",
       "artist": "Os Gemeos",
       "location": {
         "neighborhood": "Coney Island",
@@ -233,7 +233,7 @@
     },
     {
       "id": 19,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706650785/Hidden%20Murals%20NYC/vhils-chiseled-art_r28oem.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706650785/Hidden%20Murals%20NYC/vhils-chiseled-art_r28oem.jpg",
       "artist": "Vhils",
       "location": {
         "neighborhood": "Little Italy",
@@ -246,7 +246,7 @@
     },
     {
       "id": 20,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706650405/Hidden%20Murals%20NYC/Hammer_Boy_yjkwep.webp",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706650405/Hidden%20Murals%20NYC/Hammer_Boy_yjkwep.webp",
       "artist": "Banksy",
       "location": {
         "neighborhood": "Upper West Side",
@@ -260,7 +260,7 @@
     {
       "id": 21,
       "artist": "Rocko & Joel Artista",
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706664899/Hidden%20Murals%20NYC/Rocko_Joel_Artista_yh6wbk.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706664899/Hidden%20Murals%20NYC/Rocko_Joel_Artista_yh6wbk.jpg",
       "location": {
         "neighborhood": "Bushwick",
         "borough": "Brooklyn",
@@ -272,7 +272,7 @@
     },
     {
       "id": 22,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706648244/Hidden%20Murals%20NYC/TheDayAfter_ouowxu.webp",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706648244/Hidden%20Murals%20NYC/TheDayAfter_ouowxu.webp",
       "artist": "How & Nosm",
       "location": {
         "neighborhood": "Bowery",
@@ -285,7 +285,7 @@
     },
     {
       "id": 23,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706646297/Hidden%20Murals%20NYC/UrbanLabyrinth_uxulis.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706646297/Hidden%20Murals%20NYC/UrbanLabyrinth_uxulis.jpg",
       "artist": "Logan Hicks",
       "location": {
         "neighborhood": "Bowery",
@@ -311,7 +311,7 @@
     },
     {
       "id": 25,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706720065/Hidden%20Murals%20NYC/nychos_sta9pv.jpg",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706720065/Hidden%20Murals%20NYC/nychos_sta9pv.jpg",
       "artist": "Nychos",
       "location": {
         "neighborhood": "Coney Island",
@@ -337,20 +337,20 @@
     },
     {
       "id": 27,
-      "image":"https://res.cloudinary.com/dveesfude/image/upload/v1706750859/Hidden%20Murals%20NYC/LOVE_uofzxc.jpg",
+      "image":"https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706750859/Hidden%20Murals%20NYC/LOVE_uofzxc.jpg",
       "artist": "Unknown",
       "location": {
         "neighborhood": "Mott Haven",
         "borough": "Bronx",
         "intersection": "E 174th St & Boone Ave"
       },
-      "title": "Unknown",
+      "title": "Love",
       "year": 2022,
       "description": "Love."
     },
     {
       "id": 28,
-      "image":"https://res.cloudinary.com/dveesfude/image/upload/v1706751149/Hidden%20Murals%20NYC/Bronx-Unknown_pskjdw.jpg",
+      "image":"https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706751149/Hidden%20Murals%20NYC/Bronx-Unknown_pskjdw.jpg",
       "artist": "Unknown",
       "location": {
         "neighborhood": "Mott Haven",
@@ -376,7 +376,7 @@
     },
     {
       "id": 30,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706752472/Hidden%20Murals%20NYC/StatenIsland-Stapleton_ErinKelli_Kilbane_knyisi.avif",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706752472/Hidden%20Murals%20NYC/StatenIsland-Stapleton_ErinKelli_Kilbane_knyisi.avif",
       "artist": "ErinKelli Kilbane",
       "location": {
         "neighborhood": "Stapleton",
@@ -389,7 +389,7 @@
     },
     {
       "id": 31,
-      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706753409/Hidden%20Murals%20NYC/broad_st_bay_st_nyc_arts_cypher_jdshyy.avif",
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/c_scale,w_700/v1706753409/Hidden%20Murals%20NYC/broad_st_bay_st_nyc_arts_cypher_jdshyy.avif",
       "artist": "Unknown",
       "location": {
         "neighborhood": "Stapleton",
@@ -399,6 +399,19 @@
       "title": "Unknown",
       "year": "2017",
       "description": "Thanks to the work of NYC Arts Cypher, the corner of Bay and Broad streets has become an urban art gallery. But also with potent anti-drug and anti-bullying messages."
+    },
+    {
+      "id": 32,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706754610/Hidden%20Murals%20NYC/toofly-wcmp-street-art-nyc_a1gwus.jpg",
+      "artist": "TooFly",
+      "location": {
+        "neighborhood": "Astoria",
+        "borough": "Queens",
+        "intersection": "Welling Ct & 30th Ave"
+      },
+      "title": "Unknown",
+      "year": "2023",
+      "description": "This mural is by Ecuador-born, Queens-bred multidisciplinary artist Toofly."
     }
 
   ],
@@ -778,7 +791,20 @@
       "text": "The collaborative brilliance of NYC Arts Cypher has turned ordinary walls into an engaging urban tapestry. This mural's bold stance against substance abuse and bullying adds depth to its visual allure.",
       "muralId": 31,
       "author": "UrbanCanvasExplorer"
+    },
+    {
+      "id": 63,
+      "text": "TooFly's mural in Astoria is a visual gem that beautifully blends culture and creativity. A delightful discovery!",
+      "muralId": 32,
+      "author": "ArtGemFinder"
+    },
+    {
+      "id": 64,
+      "text": "A harmonious blend of art and cultural expression!",
+      "muralId": 32,
+      "author": "CultureExplorer"
     }
+  
   ]
 }
 

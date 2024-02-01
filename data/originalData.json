@@ -188,7 +188,7 @@
         "borough": "Queens",
         "intersection": "23rd St & 44th Rd"
       },
-      "title": "unknown",
+      "title": "Unknown",
       "year": 2015,
       "description": "Dasic Fernandez is a Chilean graffiti street artist."
     },
@@ -201,7 +201,7 @@
         "borough": "Staten Island",
         "intersection": "Canal St & Wright St"
       },
-      "title": "untitled",
+      "title": "Untitled",
       "year": 2021,
       "description": "Will Power's “massive tribute wall” to hip-hop legends."
     },
@@ -240,7 +240,7 @@
         "borough": "Manhattan",
         "intersection": "Broome St & Elizabeth St"
       },
-      "title": "unknown",
+      "title": "Unknown",
       "year": 2018,
       "description": "This mural by portuguese artist Vhils is his first in the US. His portraits are chiseled into plaster and brick walls. This is a portrait of artist TJ Mizell."
     },
@@ -266,7 +266,7 @@
         "borough": "Brooklyn",
         "intersection": "St Nicholas Ave & Troutman St"
       },
-      "title": "unknown",
+      "title": "Unknown",
       "year": 2015,
       "description": "Spread Art NYC, led by Naofal Alaoui (aka Rocko), helped bring this calligraffiti mural to life in 2015, located across from 247 Troutman Street. Working with Joel Bergner (aka Joel Artista), the two executed a mural based on an ongoing portrait series by acclaimed photographer and cinematographer Barron Claiborne"
     },
@@ -334,7 +334,73 @@
       "title": "Hercules at the Crossroads",
       "year": 2015,
       "description": "I’ve chosen to recreate an allegory painted many times during the Renaissance: Hercules at the Crossroads. Traditionally, Hercules is placed in the middle; on the left is a life of virtue (represented by a treacherous mountains) and a life of sin and unhealthy choices on the right (represented by lakes and wooded areas). I¹ve maintained the positions of the different paths, but inverted the imagery because I think living an honest life can be easy and appealing. In the painting we see that Hercules is right in the process of making that choice: he¹s looking towards the sweet side while his spear creates a visual barrier to the unhealthy side. I think the scene also relates perfectly to Coney Island Art Walls project; celebrating the possibilities of new development over the run-down norm. - Buff Monster"
+    },
+    {
+      "id": 27,
+      "image":"https://res.cloudinary.com/dveesfude/image/upload/v1706750859/Hidden%20Murals%20NYC/LOVE_uofzxc.jpg",
+      "artist": "Unknown",
+      "location": {
+        "neighborhood": "Mott Haven",
+        "borough": "Bronx",
+        "intersection": "E 174th St & Boone Ave"
+      },
+      "title": "Unknown",
+      "year": 2022,
+      "description": "Love."
+    },
+    {
+      "id": 28,
+      "image":"https://res.cloudinary.com/dveesfude/image/upload/v1706751149/Hidden%20Murals%20NYC/Bronx-Unknown_pskjdw.jpg",
+      "artist": "Unknown",
+      "location": {
+        "neighborhood": "Mott Haven",
+        "borough": "Bronx",
+        "intersection": "E 174th St & Boone Ave"
+      },
+      "title": "Unknown",
+      "year": 2022,
+      "description": "Murals found on Boone Ave Walls in the Bronx."
+    },
+    {
+      "id": 29,
+      "image":"https://res.cloudinary.com/dveesfude/image/upload/v1706751716/Hidden%20Murals%20NYC/daze-graffiti-bronx-nyc_sajd2i.jpg",
+      "artist": "Daze",
+      "location": {
+        "neighborhood": "Mott Haven",
+        "borough": "Bronx",
+        "intersection": "E 174th St & Boone Ave"
+      },
+      "title": "Unknown",
+      "year": 2023,
+      "description": "The legendary NYC-based artist Chris “Daze” Ellis mural at Boone Avenue Walls"
+    },
+    {
+      "id": 30,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706752472/Hidden%20Murals%20NYC/StatenIsland-Stapleton_ErinKelli_Kilbane_knyisi.avif",
+      "artist": "ErinKelli Kilbane",
+      "location": {
+        "neighborhood": "Stapleton",
+        "borough": "Staten Island",
+        "intersection": "Wave St & Bay St"
+      },
+      "title": "Unknown",
+      "year": 2023,
+      "description": "An eye-catching new mural dripping with hometown pride just down the block from Hub17NYC, the art-studio space that serves as a hub for creators in the community. This mural at 73 Wave St. is part of nonprofit Projectivity’s beautification project, and is sponsored by the New York City Department of Cultural Affairs and the Staten Island Foundation. Headquartered in Staten Island, Projectivity offers education, resources and opportunities to those interested in pursuing media and the arts."
+    },
+    {
+      "id": 31,
+      "image": "https://res.cloudinary.com/dveesfude/image/upload/v1706753409/Hidden%20Murals%20NYC/broad_st_bay_st_nyc_arts_cypher_jdshyy.avif",
+      "artist": "Unknown",
+      "location": {
+        "neighborhood": "Stapleton",
+        "borough": "Staten Island",
+        "intersection": "Bay St & Broad St"
+      },
+      "title": "Unknown",
+      "year": "2017",
+      "description": "Thanks to the work of NYC Arts Cypher, the corner of Bay and Broad streets has become an urban art gallery. But also with potent anti-drug and anti-bullying messages."
     }
+
   ],
 
   
@@ -652,7 +718,67 @@
       "text": "Buff Monster's mural unveils potent symbols. Hercules leans toward sweetness, mirroring life's pivotal choices. Coney Island's evolution echoes positive transformations. Thoughtful and inspiring!",
       "muralId": 26,
       "author": "MindfulObserver"
-    }    
+    },
+    {
+      "id": 53,
+      "text": "Stumbled upon this mural in the Bronx. The simplicity of the message, 'Love,' speaks volumes. Sometimes, the mysterious and understated art has the most profound impact. A hidden gem in the heart of the borough!",
+      "muralId": 27,
+      "author": "HeartfeltExplorer"
+    },
+    {
+      "id": 54,
+      "text": "The artist's choice to convey a message of 'Love' with simplicity is both intriguing and heartwarming.",
+      "muralId": 27,
+      "author": "ArtAdmirer42"
+    },
+    {
+      "id": 55,
+      "text": "Seeing these new pieces for the first time felt like stumbling upon an art secret in the Bronx! 🌟",
+      "muralId": 28,
+      "author": "ArtSecretFinder"
+    }, 
+    {
+      "id": 56,
+      "text": "Experiencing a new piece of art for the first time is like finding a visual gem ✨ in Mott Haven!",
+      "muralId": 28,
+      "author": "ArtGemDiscoverer"
+    },
+    {
+      "id": 57,
+      "text": "Daze's mural at Boone Avenue Walls in Mott Haven is a captivating display of vibrant creativity. The interplay of colors and dynamic strokes tells a unique story on the urban canvas. Witnessing this legendary artist's work for the first time is truly inspiring.",
+      "muralId": 29,
+      "author": "ArtEnthusiast101"
+    },
+    {
+      "id": 58,
+      "text": "Explored Mott Haven and discovered Daze's mural at Boone Avenue Walls. The dynamic strokes and urban vibes in this legendary artist's work are truly captivating. Experiencing it for the first time felt like stumbling upon a visual treasure in the Bronx!",
+      "muralId": 29,
+      "author": "UrbanExplorerJourney"
+    },
+    {
+      "id": 59,
+      "text": "ErinKelli Kilbane's mural is a captivating testament to local pride! The vibrant and dynamic artwork found just steps away from Hub17NYC is like discovering a cultural treasure in the heart of the borough. Truly an unexpected gem!",
+      "muralId": 30,
+      "author": "CultureExplorerX"
+    },
+    {
+      "id": 60,
+      "text": "Wandered through Stapleton Heights and stumbled upon ErinKelli Kilbane's striking mural at 73 Wave St. The community-driven energy and lively vibes of this artwork are a testament to Staten Island's evolving artistic landscape. A delightful find in the neighborhood!",
+      "muralId": 30,
+      "author": "ArtisticDiscoveryNomad"
+    },
+    {
+      "id": 61,
+      "text": "This urban masterpiece delivers a profound narrative, weaving messages against substance abuse and bullying. A hidden artistic gem awaiting discovery!",
+      "muralId": 31,
+      "author": "ArtEnthusiastDiscoverer"
+    },
+    {
+      "id": 62,
+      "text": "The collaborative brilliance of NYC Arts Cypher has turned ordinary walls into an engaging urban tapestry. This mural's bold stance against substance abuse and bullying adds depth to its visual allure.",
+      "muralId": 31,
+      "author": "UrbanCanvasExplorer"
+    }
     
   ]
 }

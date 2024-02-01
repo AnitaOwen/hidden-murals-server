@@ -108,8 +108,11 @@
       "id": 9,
       "image":"https://res.cloudinary.com/dhexjuuzd/image/upload/v1706647981/Hidden%20Murals/Roa-street-art-in-Williamsburg-Brooklyn_aghese.jpg",
       "artist": "ROA",
-      "location": "Brooklyn Navy Yard",
-      "intersection": "Flushing Ave & Navy St",
+      "location": {
+        "neighborhood":"Brooklyn Navy Yard",
+        "borough": "Brooklyn",
+        "intersection": "Flushing Ave & Navy St"
+    },
       "title": "Wildlife Harmony",
       "year": 2016,
       "description": "ROA's large-scale mural featuring intricately detailed wildlife."
